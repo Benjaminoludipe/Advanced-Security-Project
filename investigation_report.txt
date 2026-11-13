@@ -1,0 +1,35 @@
+﻿===============================================
+        SOC SECURITY INVESTIGATION REPORT
+===============================================
+Date/Time  : 2026-03-30 20:56:48
+------------------------------------------------
+
+[1] BRUTE FORCE DETECTION
+--------------------------
+Alerts Detected  : 47
+Top Attacker IP  : [REDACTED-IP]
+
+[2] SUSPICIOUS POWERSHELL DETECTION
+-------------------------------------
+Alerts Detected  : 3
+
+[3] IOC MATCH DETECTION
+------------------------
+Alerts Detected  : 5
+
+[4] EXFILTRATION DETECTION
+---------------------------
+Alerts Detected  : 1
+
+------------------------------------------------
+INVESTIGATION SUMMARY
+------------------------------------------------
+Total Alerts     : 56
+Risk Level       : HIGH
+
+Risk Level Guide:
+  HIGH   = 6 or more alerts - Immediate action required
+  MEDIUM = 2 to 5 alerts   - Investigate further
+  LOW    = 0 to 1 alerts   - Low suspicion
+
+================================================
